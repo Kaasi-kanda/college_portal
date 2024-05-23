@@ -1,0 +1,3 @@
+                                                 The College Portal
+Institution Portal Developed Using HTML,CSS,Javascript and Bootstrap.It Integrates all the Departments Staff and Students .It is connected to varies web pages of the college taht includes Results ,Faculty login and Student Login.The students can also submit their Assignments by this portal.One special feature included in this portal is Online Admission System.The students can upload the documents through the portal ,the admission department take care of it and allots seat for the Candidates.
+Live Link: https://kaasi-kanda.github.io/college_portal/
